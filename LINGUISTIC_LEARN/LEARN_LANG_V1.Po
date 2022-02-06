@@ -1,0 +1,58 @@
+Languages to learn
+
+High priority
+German
+
+DRAGONSKULL
+Middle Priority
+1 NEW PRIORITY PER DAY
+NO SWAPS... AROUNDS... ALOTS
+Japanese (create a set of .Po files for it, in both Romanized, Hepburn, English, Kanji, and other Japanese forms) [1]
+Russian (create a set of .Po files for it, in both Romanized, Cyrillic/Russian, and English forms) [2]
+Spanish (create a set of .Po files for it, in both Spanish and English forms) [3]
+French (create a set of .Po files for it, in both French and English forms) [4]
+Latin (create a set of .Po files for it, in both Latin, and English forms) [5]
+Lithuanian (create a set of .Po files for it, in both Lithuanian and English forms) [6]
+Punjabi (create a set of .Po files for it, in both Punjabi, Romanized JabiPun and English forms) [7]
+Swedish  (create a set of .Po files for it, in both Swedish, and English forms) [8]
+Greek (create a set of .Po files for it, in both Greek, Romanized Greek, and English forms) [9]
+Chinese (Traditional) (create a set of .Po files for it, in both TraChinese, Romanized, Kanji, and English forms. Also: MAKE A LONG TRANSLATED SECTION REGARDING WHY YOU CHOOSE TRADITIONAL CHINESE OVER SIMPLIFIED CHINESE, NOTING THAT SIMPLICITY CAN BE BAD, and that the 2 languages are fine)
+Cuneiform (create a set of .Po files for it, in both Cuneiform, Romanized, and English forms) [10]
+South Korean (Create a set of .Po files for it, in both Hepburn Romanization, Korean, and English forms) [11]
+English (.Po file of all of your English knowledge to use as a corpus) [12]
+Esperanto (.Po file for all of your Esperanto knowledge to use as a corpus, in Esperanto, and English) [13]
+Polish (.Po file for all of your Polish knowledge, in Polish and English) [14]
+Arabic (.Po file for all of your Arabic knowledge, in Arabic, romanized arabic, and English forms) [15]
+Dutch (.Po file for all of your Dutch knowledge, in Dutch, and English forms) [16]
+::German{up 1 tier} [17]
+Hawaiian (.Po file for all of your Hawaiian knowledge. In Hawaiian, romanized, and English forms) [18]
+Hebrew [new] (.Po file for all of your Hebrew knowledge. In Hebrew, Romanized, and English forms) [19]
+Indonesian [new] (.Po file for all of your Indonesian knowledge. In Indonesian, and English forms) [20]
+Portuguese [new] (.Po file for all of your Portuguese knowledge, in Portuguese, Romanized, and English forms) [21]
+Hindi [new] (.Po file for all of your Hindi knowledge. In Hindi, Romanized, and English forms) [22]
+
+Constant priority/low/average
+English
+
+/=================\
+\File info:
+/File type: PO source file (*.Po);
+\Line count (including blank lines and compiler line): 57;
+/File version: 1 (2022, Saturday, February 5th at 01:03:10 am PST);
+\=================/%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%/                  / *
+\/                 '  '  '  '   '   '   '   '   '   '   '   '   '               ()====|> *
+||                   ' '' ' ' ' '  ' ' ' ' ' '' ' ' ' ' ' ' ' ' '               ||    \ *
+||	__________________________________________________________________      ||
+(i)<<<CONSULT YOUR LOCAL IRON TASK BUCKET DOCUMENTATION CENTER FOR MORE INFO>>>(i)
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""{__}
+||                                                                             ||	       | |
+[]:-[ V I M - C o n t r o l - G a t e]-<[7/8]>-[T y p e :q to e x i t V I M"]-:[]\	       ~~~
+:q                                                                             ||\\   ~  ~
+:q  { Complete the octoGate my son }                                           ||\\\       ~
+:q /                                                                           ||\\\\ ~   ~   ~
+:q                                                                             ||\\\\\  ~
+:q  { We will soon be free! }                                                  ||\\\\\\~
+:q /                                                                           ||\\\\\\\~~ ~
+:q                                                                             ||\\\\\\\\
+                                                                               ||\\\\\\\\\_ ~___________________________________________________________________
+

@@ -1,0 +1,1709 @@
+<=|=>
+Deutsch translation book
+German language knowledge of Seanpm2001
+Translates: English (en-US) to German (de-EU)
+<=|=>
+Main section
+
+"Deutschland"
+->
+"Germany"
+
+"Deutsch"
+->
+"German"
+
+"Übermensch"
+->
+'[May not be accurate]'
+"Superman"
+
+"Reich"
+->
+'[May not be accurate]'
+"Rich"
+
+"Das Reich"
+->
+"The Empire"
+
+"For today"
+->
+"für heute"
+
+"No articles for today"
+->
+"Nein artikels für heute"
+
+"Can we please talk in English?"
+->
+"Können wir bitte auf Englisch sprechen?"
+
+"No to article 13"
+->
+"Nein zum artikel 13"
+
+"Hello"
+->
+"Hallo"
+
+"Good morning"
+->
+"Guten morgen"
+
+"Good afternoon"
+->
+"Guten Nachmittag"
+
+"Goodnight"
+->
+"Gute Nacht"
+
+"See you tomorrow"
+->
+"Sehe dich morgen"
+
+"Communism"
+->
+"Kommunism"
+
+"No"
+->
+"Nein"
+
+"Zero"
+->
+"Null"
+
+"One"
+->
+"Eins"
+
+"Two"
+->
+"Zwei"
+
+"Three"
+->
+"Drei"
+
+"Four"
+->
+"Vier"
+
+"Five"
+->
+"Fünf"
+
+"Six"
+->
+"Sechs"
+
+"Seven"
+->
+"Sieben"
+
+"Eight"
+->
+"Acht"
+
+"Nine"
+->
+"Neun"
+
+"Ten"
+->
+"Zehn"
+
+"My"
+->
+"Mein"
+
+"Goodbye"
+->
+"auf wiedersehen"
+
+"No food for you"
+->
+"Kein Essen für Sie"
+
+"Jew"
+->
+"Jude"
+
+"Red"
+->
+"Rot"
+
+"Green"
+->
+"Grün"
+
+"Blue"
+->
+"Blau"
+
+"Das Kapital"
+->
+"Capital"
+
+"Das"
+->
+"That"
+
+"Kapital"
+->
+"Capital"
+
+"Welcome"
+->
+"Willkommen"
+
+"Welcome to Bejeweled Twist"
+->
+"Willkommen bei Bejeweled Twist"
+
+"Fuck"
+->
+"Ficken"
+
+"What the fuck"
+->
+"Was zum Teufel"
+
+"Time to go"
+->
+"Zeit zu gehen"
+
+<=|=>
+Learning German so I can fit in in Germany, Switzerland, Austria, <s id="crossthrough">Hungary</s>, Belgium, and Luxembourg
+<=|=>
+
+<=|=>
+Historical only section
+
+I do not support Nazism at all. I am highly opposed to Nazism.
+
+"Mein Kampf"
+->
+"My Struggle"
+'or' ->
+"My Battle"
+
+"Heil Hitler"
+->
+"Heil Hitler"
+
+"Heil"
+->
+"Salvation"
+
+"Leader"
+->
+"Führer"
+
+"Holocaust"
+->
+"Holocaust"
+
+<=|=>
+Japanese translation book
+Japanese language knowledge of Seanpm2001
+Translates: English (en-US) to Japanese (ja-Kana) in the Kana script, along with Hepburn Romanization
+Due to limitations with Bing Translate on Hepburn Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Please give me wings"
+->
+Kana: "翼をください"
+->
+Hepburn: "Tsubasawokudasai"
+->
+
+---
+
+English: "Cute"
+->
+Kana: "かわいい"
+->
+Hepburn: "Kawaī"
+
+---
+
+English: "Pervert"
+->
+Kana: "変態"
+->
+Hepburn: "Hentai"
+
+---
+
+English "Hello"
+->
+Kana: "こんにちは"
+->
+Hepburn: "Kon'nichiwa"
+
+---
+
+<=|=>
+Learning Japanese, so I can learn it as a language, and natively read and watch Anime and Manga content without subtitles.
+<=|=>
+
+<=|=>
+Russian translation book
+Russian language knowledge of Seanpm2001
+Translates: English (en-US) to Russian (ru) in the Cyrillic script, along with Russian Romanization
+Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Russian"
+->
+Russian: "русский"
+->
+Romanized: "russkiy"
+->
+
+---
+
+English: "Russia"
+->
+Russian: "Россия"
+->
+Romanized: "Rossiya"
+
+---
+
+English: "No"
+->
+Russian: "Нет"
+->
+Romanized: "Net/Nyet"
+
+---
+
+English: "Hello"
+->
+Russian: "Привет"
+->
+Romanized: "Privet"
+
+---
+
+English: "Duck"
+->
+Russian: "Утка"
+->
+Romanized: "Utka"
+
+---
+
+English: "Go"
+->
+Russian: "Идти"
+->
+Romanized: "Idti"
+
+---
+
+English: "DuckDuckGo"
+->
+Russian: "Дакдакго"
+->
+Romanized: "Dakdakgo"
+
+---
+
+<=|=>
+Learning Russian as an extra linguistic task.
+<=|=>
+
+---
+
+Template:
+
+English: " "
+->
+Russian: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+Spanish translation book
+Spanish language knowledge of Seanpm2001
+Translates: English (en-US) to Spanish (es-spain) in the Latin script, no romanization needed
+Some translations are based on feminine and masculine word definitions, as Spanish is a gender-based language.
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+Google Translate was used, as Bing translate doesn't show gender-specific translations
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Spanish: "Hola"
+---
+
+English: "Goodbye"
+->
+Spanish: "Adiós"
+
+---
+
+English: "Spanish"
+->
+Spanish (Feminine): "Española"
+Spanish (Maculine): "Español"
+
+---
+
+English: "Sir"
+->
+Spanish: "señor"
+
+---
+
+English: "Mister"
+->
+Spanish: "señor"
+
+---
+
+English: "I don't speak Spanish"
+->
+Spanish: "no hablo español"
+
+---
+
+English: "My name"
+->
+Spanish: "Me llamo"
+
+---
+
+English: "My name is Sean"
+->
+Spanish: "Me llamo sean"
+
+---
+
+English: "See you tomorrow"
+->
+Spanish: "Hasta mañana"
+
+---
+
+English: "Black"
+->
+Spanish: "Negro"
+
+---
+
+English: "Zero"
+->
+Spanish: "Cero"
+
+---
+
+English: "One"
+->
+Spanish (Feminine): "Una"
+Spanish (Maculine): "Uno"
+
+---
+
+English: "Two"
+->
+Spanish: "Dos"
+
+---
+
+English: "Three"
+->
+Spanish: "Tres"
+
+---
+
+English: "Four"
+->
+Spanish: "cuatro"
+
+---
+
+English: "Five"
+->
+Spanish: "Cinco"
+
+---
+
+English: "Six"
+->
+Spanish: "Seis"
+
+---
+
+English: "Seven"
+->
+Spanish: "Siete"
+
+---
+
+English: "Eight"
+->
+Spanish: "Ocho"
+
+---
+
+English: "Nine"
+->
+Spanish: "Nueve"
+
+---
+
+English: "Ten"
+->
+Spanish: "Diez"
+
+---
+
+English: "New"
+->
+Spanish (Feminine): "Nueva"
+Spanish (Maculine): "Nuevo"
+
+---
+
+English: "Old"
+->
+Spanish (Feminine): "Vieja"
+Spanish (Maculine): "Viejo"
+
+---
+
+English: "Music"
+->
+Spanish: "Música"
+
+---
+
+English: "Mexico"
+->
+Spanish: "México"
+
+---
+
+English: "Friend"
+->
+Spanish (Feminine): "Amiga"
+Spanish (Maculine): "Amigo"
+
+---
+
+English: "Shut up"
+->
+Spanish: "Cállate"
+
+---
+
+English: "Enemy"
+->
+Spanish (Feminine): "Enemiga"
+Spanish (Maculine): "Enemigo"
+
+---
+
+<=|=>
+Learning Spanish as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Spanish: " "
+
+---
+
+Template2:
+
+English: " "
+->
+Spanish (Feminine): ""
+Spanish (Maculine): ""
+
+---
+
+<=|=>
+French translation book
+French language knowledge of Seanpm2001
+Translates: English (en-US) to French (fr) in the Latin script, no romanization needed
+Some translations are based on feminine and masculine word definitions, as French is a gender-based language.
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+Google Translate was used, as Bing translate doesn't show gender-specific translations
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+French: "Bonjour"
+
+---
+
+English: "French"
+->
+French: "français"
+
+---
+
+English: "I don't speak French"
+->
+French: "je ne parle pas français"
+
+---
+
+English: "Revolution"
+->
+French: "Révolution"
+
+---
+
+English: "Long live France"
+->
+French: "Vive la france"
+
+---
+
+English: "the"
+->
+French: "Le"
+
+---
+
+English: "Goodbye"
+->
+French: "Au revoir"
+
+---
+
+English: "Zero"
+->
+French: "Zéro"
+
+---
+
+English: "One"
+->
+French (Feminine): "Une"
+French (Maculine): "Un"
+
+---
+
+English: "Two"
+->
+French: "Deux"
+
+---
+
+English: "Three"
+->
+French: "Trois"
+
+---
+
+English: "Four"
+->
+French: "Quatre"
+
+---
+
+English: "Five"
+->
+French: "Cinq"
+
+---
+
+English: "Six"
+->
+French: "Six"
+
+---
+
+English: "Seven"
+->
+French: "Sept"
+
+---
+
+English: "Eight"
+->
+French: "Huit"
+
+---
+
+English: "Nine"
+->
+French (Feminine): "Neuve"
+French (Maculine): "Neuf"
+
+---
+
+English: "Ten"
+->
+French: "Dix"
+
+---
+
+English: "Black"
+->
+French (Feminine): "Noire"
+French (Maculine): "Noir"
+
+---
+
+English: "Encyclopedia"
+->
+French: "Encyclopédie"
+
+---
+
+<=|=>
+Learning French as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+French: " "
+
+---
+
+Template2:
+
+English: " "
+->
+French (Feminine): ""
+French (Maculine): ""
+
+---
+
+<=|=>
+Latin translation book
+Latin language knowledge of Seanpm2001
+Translates: English (en-US) to Latin (la) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Latin is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+Google Translate was used, as Bing translate doesn't support Latin
+<=|=>
+Main section
+
+---
+
+English: "Right"
+->
+Latin: "De jure"
+
+---
+
+English: "And you brute"
+->
+Latin: "Et tu brute"
+
+---
+
+English: "And you brutus"
+->
+Latin: "Et tu brutus"
+
+---
+
+English: "Out of many, one"
+->
+Latin: "E Pluribus Unum"
+
+---
+
+English: "Hello"
+->
+Latin: "Salve"
+
+---
+
+English: "Goodbye"
+->
+Latin: "Vale"
+
+---
+
+English: "Rome"
+->
+Latin: "Roma"
+
+---
+
+English: "Zero"
+->
+Latin: "Zero"
+
+---
+
+English: "One"
+->
+Latin: "Unus"
+
+---
+
+English: "Two"
+->
+Latin: "duo"
+
+---
+
+English: "Three"
+->
+Latin: "Tribus"
+
+---
+
+English: "Four"
+->
+Latin: "quattuor"
+
+---
+
+English: "Five"
+->
+Latin: "quinque"
+
+---
+
+English: "Six"
+->
+Latin: "Sex"
+
+---
+
+English: "Seven"
+->
+Latin: "septem"
+
+---
+
+English: "Eight"
+->
+Latin: "Octo"
+
+---
+
+English: "Nine"
+->
+Latin: "Novem"
+
+---
+
+English: "Ten"
+->
+Latin: "Decem"
+
+---
+
+<=|=>
+Learning Latin as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Latin: " "
+
+---
+
+<=|=>
+Lithuanian translation book
+Lithuanian language knowledge of Seanpm2001
+Translates: English (en-US) to Lithuanian (lt) in the Lithuanian script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Lithuanian is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Lithuanian: "Sveiki"
+
+---
+
+English: "Goodbye"
+->
+Lithuanian: "Viso gero"
+
+---
+
+English: "I don't speak Lithuanian"
+->
+Lithuanian: "Aš nekalbu lietuviškai"
+
+---
+
+English: "Lithuania"
+->
+Lithuanian: "Lietuva"
+
+---
+
+English: "Lithuanian"
+->
+Lithuanian: "lietuvių"
+
+---
+
+English: "Good morning"
+->
+Lithuanian: "Labas rytas"
+
+---
+
+English: "Good night"
+->
+Lithuanian: "Labos nakties"
+
+---
+
+English: "Zero"
+->
+Lithuanian: "Nulis"
+
+---
+
+English: "One"
+->
+Lithuanian: "Vienas"
+
+---
+
+English: "Two"
+->
+Lithuanian: "Du"
+
+---
+
+English: "Three"
+->
+Lithuanian: "Trys"
+
+---
+
+English: "Four"
+->
+Lithuanian: "Keturi"
+
+---
+
+English: "Five"
+->
+Lithuanian: "Penkios"
+
+---
+
+English: "Six"
+->
+Lithuanian: "Šeši"
+
+---
+
+English: "Seven"
+->
+Lithuanian: "Septyni"
+
+---
+
+English: "Eight"
+->
+Lithuanian: "Aštuoni"
+
+---
+
+English: "Nine"
+->
+Lithuanian: "Devyni"
+
+---
+
+English: "Ten"
+->
+Lithuanian: "dešimt"
+
+---
+
+English: "See you tomorrow"
+->
+Lithuanian: "Pasimatysime rytoj"
+
+---
+
+<=|=>
+Learning Lithuanian as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Lithuanian: " "
+
+---
+
+<=|=>
+Punjabi translation book
+Punjabi language knowledge of Seanpm2001
+Translates: English (en-US) to Punjabi (lt) in the Punjabi script, Romanized with the standard Punjabi romanization method
+<!-- Some translations are based on feminine and masculine word definitions, as Punjabi is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Punjabi: "ਸਤ ਸ੍ਰੀ ਅਕਾਲ"
+->
+Romanized: "Sata srī akāla"
+
+---
+
+English: "Goodbye"
+->
+Punjabi: "ਅਲਵਿਦਾ"
+->
+Romanized: "ਅਲਵਿਦਾ"
+
+---
+
+English: "I don't speak Punjabi"
+->
+Punjabi: "ਮੈਂ ਪੰਜਾਬੀ ਨਹੀਂ ਬੋਲਦਾ"
+->
+Romanized: "Maiṁ pajābī nahīṁ bōladā"
+
+---
+
+English: "Tunak Tunak Tun"
+->
+Punjabi: "ਤੁਨਕ ਤੁਨਕ ਤੁਨ"
+->
+Romanized: "Tunaka tunaka tuna"
+
+
+---
+
+English: "Punjabi"
+->
+Punjabi: "ਪੰਜਾਬੀ"
+->
+Romanized: "Pajābī"
+
+---
+
+English: "Good morning"
+->
+Punjabi: "ਸ਼ੁਭ ਸਵੇਰ"
+->
+Romanized: "Śubha savēra"
+
+---
+
+English: "Good night"
+->
+Punjabi: "ਸ਼ੁਭ ਰਾਤ"
+->
+Romanized: "Śubha rāta"
+
+---
+
+English: "Zero"
+->
+Punjabi: "ਜ਼ੀਰੋ"
+->
+Romanized: "Zīrō"
+
+---
+
+English: "One"
+->
+Punjabi: "ਇੱਕ"
+->
+Romanized: "Ika"
+
+---
+
+English: "Two"
+->
+Punjabi: "ਦੋ"
+->
+Romanized: "Dō"
+
+---
+
+English: "Three"
+->
+Punjabi: "ਤਿੰਨ"
+->
+Romanized: "Tina"
+
+---
+
+English: "Four"
+->
+Punjabi: "ਚਾਰ"
+->
+Romanized: "Cāra"
+
+---
+
+English: "Five"
+->
+Punjabi: "ਪੰਜ"
+->
+Romanized: "Paja"
+
+---
+
+English: "Six"
+->
+Punjabi: "ਛੇ"
+->
+Romanized: "Chē"
+
+---
+
+English: "Seven"
+->
+Punjabi: "ਸੱਤ"
+->
+Romanized: "Sata"
+
+---
+
+English: "Eight"
+->
+Punjabi: "ਅੱਠ"
+->
+Romanized: "Aṭha"
+
+---
+
+English: "Nine"
+->
+Punjabi: "ਨੌ"
+->
+Romanized: "Nau"
+
+---
+
+English: "Ten"
+->
+Punjabi: "ਦਸ"
+->
+Romanized: "Dasa"
+
+---
+
+English: "See you tomorrow"
+->
+Punjabi: "ਕਲ੍ਹ ਮਿਲਾਂਗੇ"
+->
+Romanized: "Kal'ha milāṅgē"
+
+---
+
+English: "India"
+->
+Punjabi: "ਭਾਰਤ"
+->
+Romanized: "Bhārata"
+
+---
+
+<=|=>
+Learning Punjabi as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Punjabi: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+Swedish translation book
+Swedish language knowledge of Seanpm2001
+Translates: English (en-US) to Swedish (sv) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Swedish is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Swedish: "Hej"
+
+---
+
+English: "Goodbye"
+->
+Swedish: "Adjö"
+
+---
+
+English: "I don't speak Swedish"
+->
+Swedish: "Jag pratar inte svenska"
+
+---
+
+English: "Sweden"
+->
+Swedish: "Sverige"
+
+---
+
+English: "Swedish"
+->
+Swedish: "svenska"
+
+---
+
+English: "Unsearchable/Ungoogleable"
+->
+Swedish: "O-Googlebar"
+
+---
+
+English: "Good morning"
+->
+Swedish: "God morgon"
+
+---
+
+English: "Good night"
+->
+Swedish: "Godnatt"
+
+---
+
+English: "Zero"
+->
+Swedish: "Noll"
+
+---
+
+English: "One"
+->
+Swedish: "Ett"
+
+---
+
+English: "Two"
+->
+Swedish: "Två"
+
+---
+
+English: "Three"
+->
+Swedish: "Tre"
+
+---
+
+English: "Four"
+->
+Swedish: "Fyra"
+
+---
+
+English: "Five"
+->
+Swedish: "Fem"
+
+---
+
+English: "Six"
+->
+Swedish: "Sex"
+
+---
+
+English: "Seven"
+->
+Swedish: "Sju"
+
+---
+
+English: "Eight"
+->
+Swedish: "Åtta"
+
+---
+
+English: "Nine"
+->
+Swedish: "Nio"
+
+---
+
+English: "Ten"
+->
+Swedish: "Tio"
+
+---
+
+English: "See you tomorrow"
+->
+Swedish: "Vi ses imorgon"
+
+---
+
+<=|=>
+Learning Swedish as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Swedish: " "
+
+---
+
+<=|=>
+Greek translation book
+Greek language knowledge of Seanpm2001
+Translates: English (en-US) to Greek (lt) in the Greek script, Romanized with the standard Greek romanization method
+<!-- Some translations are based on feminine and masculine word definitions, as Greek is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Greek: "γεια σας"
+->
+Romanized: "geia sas"
+
+---
+
+English: "Goodbye"
+->
+Greek: "Αντιο σας"
+->
+Romanized: "Antio sas"
+
+---
+
+English: "I don't speak Greek"
+->
+Greek: "Δεν μιλάω ελληνικά"
+->
+Romanized: "Den miláo elliniká"
+
+---
+
+English: "Greek"
+->
+Greek: "Ελληνικά"
+->
+Romanized: "Elliniká"
+
+---
+
+English: "Good morning"
+->
+Greek: "Καλημέρα"
+->
+Romanized: "Kaliméra"
+
+---
+
+English: "Good night"
+->
+Greek: "Καληνυχτα"
+->
+Romanized: "Kalinychta"
+
+---
+
+English: "Zero"
+->
+Greek: "Μηδέν"
+->
+Romanized: "Midén"
+
+---
+
+English: "One"
+->
+Greek: "Ενας"
+->
+Romanized: "Enas"
+
+---
+
+English: "Two"
+->
+Greek: "Δύο"
+->
+Romanized: "Dýo"
+
+---
+
+English: "Three"
+->
+Greek: "Τρία"
+->
+Romanized: "Tría"
+
+---
+
+English: "Four"
+->
+Greek: "Τέσσερα"
+->
+Romanized: "Téssera"
+
+---
+
+English: "Five"
+->
+Greek: "Πέντε"
+->
+Romanized: "Pénte"
+
+---
+
+English: "Six"
+->
+Greek: "Εξι"
+->
+Romanized: "Exi"
+
+---
+
+English: "Seven"
+->
+Greek: "Επτά"
+->
+Romanized: "Eptá"
+
+---
+
+English: "Eight"
+->
+Greek: "Οκτώ"
+->
+Romanized: "Októ"
+
+---
+
+English: "Nine"
+->
+Greek: "Εννέα"
+->
+Romanized: "Ennéa"
+
+---
+
+English: "Ten"
+->
+Greek: "Δέκα"
+->
+Romanized: "Déka"
+
+---
+
+English: "See you tomorrow"
+->
+Greek: "Τα λέμε αύριο"
+->
+Romanized: "Ta léme ávrio"
+
+---
+
+English: "Greece"
+->
+Greek: "Ελλάδα"
+->
+Romanized: "Elláda"
+
+---
+
+English: "Delta"
+->
+Greek: "Δέλτα"
+->
+Romanized: "Délta"
+
+---
+
+<=|=>
+Learning Greek as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Greek: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+Chinese (Traditional) translation book
+Chinese (Traditional) language knowledge of Seanpm2001
+Translates: English (en-US) to Chinese (Traditional) (zh-t) in the Hanzi script, Pinyin Romanization is also used
+<!-- Some translations are based on feminine and masculine word definitions, as Chinese (Traditional) is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Chinese (Traditional): "你好"
+->
+Pinyin Romanization: "Nǐ hǎo"
+
+---
+
+English: "Goodbye"
+->
+Chinese (Traditional): "再見"
+->
+Pinyin Romanization: "Zàijiàn"
+
+---
+
+English: "I don't speak Chinese (Traditional)"
+->
+Chinese (Traditional): "我不會說中文（繁體"
+->
+Pinyin Romanization: "Wǒ bù huì shuō zhōngwén (fántǐ)"
+
+---
+
+English: "Beijing"
+->
+Chinese (Traditional): "北京"
+->
+Pinyin Romanization: "Běijīng"
+Pinyin Romanization (alternative): "Peking"
+
+---
+
+English: "Chinese (Traditional)"
+->
+Chinese (Traditional): "中國傳統的"
+->
+Pinyin Romanization: "Zhōngguó chuántǒng de)"
+
+---
+
+English: "Chinese"
+->
+Chinese (Traditional): "中國人"
+->
+Pinyin Romanization: "Zhōngguó rén"
+
+---
+
+English: "Good morning"
+->
+Chinese (Traditional): "早上好"
+->
+Pinyin Romanization: "Zǎoshang hǎo"
+
+---
+
+English: "Good night"
+->
+Chinese (Traditional): "晚安"
+->
+Pinyin Romanization: "Wǎn'ān"
+
+---
+
+English: "Zero"
+->
+Chinese (Traditional): "零"
+->
+Pinyin Romanization: "Líng"
+
+---
+
+English: "One"
+->
+Chinese (Traditional): "一"
+->
+Pinyin Romanization: "Yī"
+
+---
+
+English: "Two"
+->
+Chinese (Traditional): "二"
+->
+Pinyin Romanization: "Èr"
+
+---
+
+English: "Three"
+->
+Chinese (Traditional): "三"
+->
+Pinyin Romanization: "Sān"
+
+---
+
+English: "Four"
+->
+Chinese (Traditional): "四"
+->
+Pinyin Romanization: "Sì"
+
+---
+
+English: "Five"
+->
+Chinese (Traditional): "五"
+->
+Pinyin Romanization: "Wǔ"
+
+---
+
+English: "Six"
+->
+Chinese (Traditional): "六"
+->
+Pinyin Romanization: "Liù"
+
+---
+
+English: "Seven"
+->
+Chinese (Traditional): "七"
+->
+Pinyin Romanization: "Qī"
+
+---
+
+English: "Eight"
+->
+Chinese (Traditional): "八"
+->
+Pinyin Romanization: "Bā"
+
+---
+
+English: "Nine"
+->
+Chinese (Traditional): "九"
+->
+Pinyin Romanization: "Jiǔ"
+
+---
+
+English: "Ten"
+->
+Chinese (Traditional): "十"
+->
+Pinyin Romanization: "Shí"
+
+---
+
+English: "See you tomorrow"
+->
+Chinese (Traditional): "明天見"
+->
+Pinyin Romanization: "Míngtiān jiàn"
+
+---
+
+English: "China"
+->
+Chinese (Traditional): "中國"
+->
+Pinyin Romanization: "Zhōngguó"
+
+---
+
+<=|=>
+Learning Chinese (Traditional) as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Chinese (Traditional): " "
+->
+Pinyin Romanization: " "
+
+---
+

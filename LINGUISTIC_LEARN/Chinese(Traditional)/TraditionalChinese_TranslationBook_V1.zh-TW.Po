@@ -1,0 +1,207 @@
+<=|=>
+Chinese (Traditional) translation book
+Chinese (Traditional) language knowledge of Seanpm2001
+Translates: English (en-US) to Chinese (Traditional) (zh-t) in the Hanzi script, Pinyin Romanization is also used
+<!-- Some translations are based on feminine and masculine word definitions, as Chinese (Traditional) is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Chinese (Traditional): "你好"
+->
+Pinyin Romanization: "Nǐ hǎo"
+
+---
+
+English: "Goodbye"
+->
+Chinese (Traditional): "再見"
+->
+Pinyin Romanization: "Zàijiàn"
+
+---
+
+English: "I don't speak Chinese (Traditional)"
+->
+Chinese (Traditional): "我不會說中文（繁體"
+->
+Pinyin Romanization: "Wǒ bù huì shuō zhōngwén (fántǐ)"
+
+---
+
+English: "Beijing"
+->
+Chinese (Traditional): "北京"
+->
+Pinyin Romanization: "Běijīng"
+Pinyin Romanization (alternative): "Peking"
+
+---
+
+English: "Chinese (Traditional)"
+->
+Chinese (Traditional): "中國傳統的"
+->
+Pinyin Romanization: "Zhōngguó chuántǒng de)"
+
+---
+
+English: "Chinese"
+->
+Chinese (Traditional): "中國人"
+->
+Pinyin Romanization: "Zhōngguó rén"
+
+---
+
+English: "Good morning"
+->
+Chinese (Traditional): "早上好"
+->
+Pinyin Romanization: "Zǎoshang hǎo"
+
+---
+
+English: "Good night"
+->
+Chinese (Traditional): "晚安"
+->
+Pinyin Romanization: "Wǎn'ān"
+
+---
+
+English: "Zero"
+->
+Chinese (Traditional): "零"
+->
+Pinyin Romanization: "Líng"
+
+---
+
+English: "One"
+->
+Chinese (Traditional): "一"
+->
+Pinyin Romanization: "Yī"
+
+---
+
+English: "Two"
+->
+Chinese (Traditional): "二"
+->
+Pinyin Romanization: "Èr"
+
+---
+
+English: "Three"
+->
+Chinese (Traditional): "三"
+->
+Pinyin Romanization: "Sān"
+
+---
+
+English: "Four"
+->
+Chinese (Traditional): "四"
+->
+Pinyin Romanization: "Sì"
+
+---
+
+English: "Five"
+->
+Chinese (Traditional): "五"
+->
+Pinyin Romanization: "Wǔ"
+
+---
+
+English: "Six"
+->
+Chinese (Traditional): "六"
+->
+Pinyin Romanization: "Liù"
+
+---
+
+English: "Seven"
+->
+Chinese (Traditional): "七"
+->
+Pinyin Romanization: "Qī"
+
+---
+
+English: "Eight"
+->
+Chinese (Traditional): "八"
+->
+Pinyin Romanization: "Bā"
+
+---
+
+English: "Nine"
+->
+Chinese (Traditional): "九"
+->
+Pinyin Romanization: "Jiǔ"
+
+---
+
+English: "Ten"
+->
+Chinese (Traditional): "十"
+->
+Pinyin Romanization: "Shí"
+
+---
+
+English: "See you tomorrow"
+->
+Chinese (Traditional): "明天見"
+->
+Pinyin Romanization: "Míngtiān jiàn"
+
+---
+
+English: "China"
+->
+Chinese (Traditional): "中國"
+->
+Pinyin Romanization: "Zhōngguó"
+
+---
+
+<=|=>
+Learning Chinese (Traditional) as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Chinese (Traditional): " "
+->
+Pinyin Romanization: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 4:39 pm PST)
+Line count (including blank lines and compiler line): 0,207
+
+<=|=>
+

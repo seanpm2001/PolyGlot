@@ -1,0 +1,199 @@
+<=|=>
+Punjabi translation book
+Punjabi language knowledge of Seanpm2001
+Translates: English (en-US) to Punjabi (lt) in the Punjabi script, Romanized with the standard Punjabi romanization method
+<!-- Some translations are based on feminine and masculine word definitions, as Punjabi is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Punjabi: "ਸਤ ਸ੍ਰੀ ਅਕਾਲ"
+->
+Romanized: "Sata srī akāla"
+
+---
+
+English: "Goodbye"
+->
+Punjabi: "ਅਲਵਿਦਾ"
+->
+Romanized: "ਅਲਵਿਦਾ"
+
+---
+
+English: "I don't speak Punjabi"
+->
+Punjabi: "ਮੈਂ ਪੰਜਾਬੀ ਨਹੀਂ ਬੋਲਦਾ"
+->
+Romanized: "Maiṁ pajābī nahīṁ bōladā"
+
+---
+
+English: "Tunak Tunak Tun"
+->
+Punjabi: "ਤੁਨਕ ਤੁਨਕ ਤੁਨ"
+->
+Romanized: "Tunaka tunaka tuna"
+
+
+---
+
+English: "Punjabi"
+->
+Punjabi: "ਪੰਜਾਬੀ"
+->
+Romanized: "Pajābī"
+
+---
+
+English: "Good morning"
+->
+Punjabi: "ਸ਼ੁਭ ਸਵੇਰ"
+->
+Romanized: "Śubha savēra"
+
+---
+
+English: "Good night"
+->
+Punjabi: "ਸ਼ੁਭ ਰਾਤ"
+->
+Romanized: "Śubha rāta"
+
+---
+
+English: "Zero"
+->
+Punjabi: "ਜ਼ੀਰੋ"
+->
+Romanized: "Zīrō"
+
+---
+
+English: "One"
+->
+Punjabi: "ਇੱਕ"
+->
+Romanized: "Ika"
+
+---
+
+English: "Two"
+->
+Punjabi: "ਦੋ"
+->
+Romanized: "Dō"
+
+---
+
+English: "Three"
+->
+Punjabi: "ਤਿੰਨ"
+->
+Romanized: "Tina"
+
+---
+
+English: "Four"
+->
+Punjabi: "ਚਾਰ"
+->
+Romanized: "Cāra"
+
+---
+
+English: "Five"
+->
+Punjabi: "ਪੰਜ"
+->
+Romanized: "Paja"
+
+---
+
+English: "Six"
+->
+Punjabi: "ਛੇ"
+->
+Romanized: "Chē"
+
+---
+
+English: "Seven"
+->
+Punjabi: "ਸੱਤ"
+->
+Romanized: "Sata"
+
+---
+
+English: "Eight"
+->
+Punjabi: "ਅੱਠ"
+->
+Romanized: "Aṭha"
+
+---
+
+English: "Nine"
+->
+Punjabi: "ਨੌ"
+->
+Romanized: "Nau"
+
+---
+
+English: "Ten"
+->
+Punjabi: "ਦਸ"
+->
+Romanized: "Dasa"
+
+---
+
+English: "See you tomorrow"
+->
+Punjabi: "ਕਲ੍ਹ ਮਿਲਾਂਗੇ"
+->
+Romanized: "Kal'ha milāṅgē"
+
+---
+
+English: "India"
+->
+Punjabi: "ਭਾਰਤ"
+->
+Romanized: "Bhārata"
+
+---
+
+<=|=>
+Learning Punjabi as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Punjabi: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 4:09 pm PST)
+Line count (including blank lines and compiler line): 0,199
+
+<=|=>
+

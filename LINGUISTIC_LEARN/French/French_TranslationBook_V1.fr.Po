@@ -1,0 +1,166 @@
+<=|=>
+French translation book
+French language knowledge of Seanpm2001
+Translates: English (en-US) to French (fr) in the Latin script, no romanization needed
+Some translations are based on feminine and masculine word definitions, as French is a gender-based language.
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+Google Translate was used, as Bing translate doesn't show gender-specific translations
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+French: "Bonjour"
+
+---
+
+English: "French"
+->
+French: "français"
+
+---
+
+English: "I don't speak French"
+->
+French: "je ne parle pas français"
+
+---
+
+English: "Revolution"
+->
+French: "Révolution"
+
+---
+
+English: "Long live France"
+->
+French: "Vive la france"
+
+---
+
+English: "the"
+->
+French: "Le"
+
+---
+
+English: "Goodbye"
+->
+French: "Au revoir"
+
+---
+
+English: "Zero"
+->
+French: "Zéro"
+
+---
+
+English: "One"
+->
+French (Feminine): "Une"
+French (Maculine): "Un"
+
+---
+
+English: "Two"
+->
+French: "Deux"
+
+---
+
+English: "Three"
+->
+French: "Trois"
+
+---
+
+English: "Four"
+->
+French: "Quatre"
+
+---
+
+English: "Five"
+->
+French: "Cinq"
+
+---
+
+English: "Six"
+->
+French: "Six"
+
+---
+
+English: "Seven"
+->
+French: "Sept"
+
+---
+
+English: "Eight"
+->
+French: "Huit"
+
+---
+
+English: "Nine"
+->
+French (Feminine): "Neuve"
+French (Maculine): "Neuf"
+
+---
+
+English: "Ten"
+->
+French: "Dix"
+
+---
+
+English: "Black"
+->
+French (Feminine): "Noire"
+French (Maculine): "Noir"
+
+---
+
+English: "Encyclopedia"
+->
+French: "Encyclopédie"
+
+---
+
+<=|=>
+Learning French as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+French: " "
+
+---
+
+Template2:
+
+English: " "
+->
+French (Feminine): ""
+French (Maculine): ""
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 3:33 pm PST)
+Line count (including blank lines and compiler line): 0,166
+
+<=|=>
+

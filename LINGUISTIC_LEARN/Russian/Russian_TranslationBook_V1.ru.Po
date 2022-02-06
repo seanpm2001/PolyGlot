@@ -1,0 +1,91 @@
+<=|=>
+Russian translation book
+Russian language knowledge of Seanpm2001
+Translates: English (en-US) to Russian (ru) in the Cyrillic script, along with Russian Romanization
+Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Russian"
+->
+Russian: "русский"
+->
+Romanized: "russkiy"
+->
+
+---
+
+English: "Russia"
+->
+Russian: "Россия"
+->
+Romanized: "Rossiya"
+
+---
+
+English: "No"
+->
+Russian: "Нет"
+->
+Romanized: "Net/Nyet"
+
+---
+
+English: "Hello"
+->
+Russian: "Привет"
+->
+Romanized: "Privet"
+
+---
+
+English: "Duck"
+->
+Russian: "Утка"
+->
+Romanized: "Utka"
+
+---
+
+English: "Go"
+->
+Russian: "Идти"
+->
+Romanized: "Idti"
+
+---
+
+English: "DuckDuckGo"
+->
+Russian: "Дакдакго"
+->
+Romanized: "Dakdakgo"
+
+---
+
+<=|=>
+Learning Russian as an extra linguistic task.
+<=|=>
+
+---
+
+Template:
+
+English: " "
+->
+Russian: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 3:01 pm PST)
+Line count (including blank lines and compiler line): 91
+
+<=|=>
+

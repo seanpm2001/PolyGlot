@@ -1,0 +1,216 @@
+<=|=>
+Spanish translation book
+Spanish language knowledge of Seanpm2001
+Translates: English (en-US) to Spanish (es-spain) in the Latin script, no romanization needed
+Some translations are based on feminine and masculine word definitions, as Spanish is a gender-based language.
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+Google Translate was used, as Bing translate doesn't show gender-specific translations
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Spanish: "Hola"
+---
+
+English: "Goodbye"
+->
+Spanish: "Adiós"
+
+---
+
+English: "Spanish"
+->
+Spanish (Feminine): "Española"
+Spanish (Maculine): "Español"
+
+---
+
+English: "Sir"
+->
+Spanish: "señor"
+
+---
+
+English: "Mister"
+->
+Spanish: "señor"
+
+---
+
+English: "I don't speak Spanish"
+->
+Spanish: "no hablo español"
+
+---
+
+English: "My name"
+->
+Spanish: "Me llamo"
+
+---
+
+English: "My name is Sean"
+->
+Spanish: "Me llamo sean"
+
+---
+
+English: "See you tomorrow"
+->
+Spanish: "Hasta mañana"
+
+---
+
+English: "Black"
+->
+Spanish: "Negro"
+
+---
+
+English: "Zero"
+->
+Spanish: "Cero"
+
+---
+
+English: "One"
+->
+Spanish (Feminine): "Una"
+Spanish (Maculine): "Uno"
+
+---
+
+English: "Two"
+->
+Spanish: "Dos"
+
+---
+
+English: "Three"
+->
+Spanish: "Tres"
+
+---
+
+English: "Four"
+->
+Spanish: "cuatro"
+
+---
+
+English: "Five"
+->
+Spanish: "Cinco"
+
+---
+
+English: "Six"
+->
+Spanish: "Seis"
+
+---
+
+English: "Seven"
+->
+Spanish: "Siete"
+
+---
+
+English: "Eight"
+->
+Spanish: "Ocho"
+
+---
+
+English: "Nine"
+->
+Spanish: "Nueve"
+
+---
+
+English: "Ten"
+->
+Spanish: "Diez"
+
+---
+
+English: "New"
+->
+Spanish (Feminine): "Nueva"
+Spanish (Maculine): "Nuevo"
+
+---
+
+English: "Old"
+->
+Spanish (Feminine): "Vieja"
+Spanish (Maculine): "Viejo"
+
+---
+
+English: "Music"
+->
+Spanish: "Música"
+
+---
+
+English: "Mexico"
+->
+Spanish: "México"
+
+---
+
+English: "Friend"
+->
+Spanish (Feminine): "Amiga"
+Spanish (Maculine): "Amigo"
+
+---
+
+English: "Shut up"
+->
+Spanish: "Cállate"
+
+---
+
+English: "Enemy"
+->
+Spanish (Feminine): "Enemiga"
+Spanish (Maculine): "Enemigo"
+
+---
+
+<=|=>
+Learning Spanish as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Spanish: " "
+
+---
+
+Template2:
+
+English: " "
+->
+Spanish (Feminine): ""
+Spanish (Maculine): ""
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 3:19 pm PST)
+Line count (including blank lines and compiler line): 0,216
+
+<=|=>
+

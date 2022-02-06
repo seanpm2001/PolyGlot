@@ -1,0 +1,150 @@
+<=|=>
+Lithuanian translation book
+Lithuanian language knowledge of Seanpm2001
+Translates: English (en-US) to Lithuanian (lt) in the Lithuanian script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Lithuanian is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Lithuanian: "Sveiki"
+
+---
+
+English: "Goodbye"
+->
+Lithuanian: "Viso gero"
+
+---
+
+English: "I don't speak Lithuanian"
+->
+Lithuanian: "Aš nekalbu lietuviškai"
+
+---
+
+English: "Lithuania"
+->
+Lithuanian: "Lietuva"
+
+---
+
+English: "Lithuanian"
+->
+Lithuanian: "lietuvių"
+
+---
+
+English: "Good morning"
+->
+Lithuanian: "Labas rytas"
+
+---
+
+English: "Good night"
+->
+Lithuanian: "Labos nakties"
+
+---
+
+English: "Zero"
+->
+Lithuanian: "Nulis"
+
+---
+
+English: "One"
+->
+Lithuanian: "Vienas"
+
+---
+
+English: "Two"
+->
+Lithuanian: "Du"
+
+---
+
+English: "Three"
+->
+Lithuanian: "Trys"
+
+---
+
+English: "Four"
+->
+Lithuanian: "Keturi"
+
+---
+
+English: "Five"
+->
+Lithuanian: "Penkios"
+
+---
+
+English: "Six"
+->
+Lithuanian: "Šeši"
+
+---
+
+English: "Seven"
+->
+Lithuanian: "Septyni"
+
+---
+
+English: "Eight"
+->
+Lithuanian: "Aštuoni"
+
+---
+
+English: "Nine"
+->
+Lithuanian: "Devyni"
+
+---
+
+English: "Ten"
+->
+Lithuanian: "dešimt"
+
+---
+
+English: "See you tomorrow"
+->
+Lithuanian: "Pasimatysime rytoj"
+
+---
+
+<=|=>
+Learning Lithuanian as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Lithuanian: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 3:54 pm PST)
+Line count (including blank lines and compiler line): 0,150
+
+<=|=>
+

@@ -1,0 +1,55 @@
+<=|=>
+Japanese translation book
+Japanese language knowledge of Seanpm2001
+Translates: English (en-US) to Japanese (ja-Kana) in the Kana script, along with Hepburn Romanization
+Due to limitations with Bing Translate on Hepburn Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Please give me wings"
+->
+Kana: "翼をください"
+->
+Hepburn: "Tsubasawokudasai"
+->
+
+---
+
+English: "Cute"
+->
+Kana: "かわいい"
+->
+Hepburn: "Kawaī"
+
+---
+
+English: "Pervert"
+->
+Kana: "変態"
+->
+Hepburn: "Hentai"
+
+---
+
+English "Hello"
+->
+Kana: "こんにちは"
+->
+Hepburn: "Kon'nichiwa"
+
+---
+
+<=|=>
+Learning Japanese, so I can learn it as a language, and natively read and watch Anime and Manga content without subtitles.
+<=|=>
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 2:53 pm PST)
+Line count (including blank lines and compiler line): 55
+
+<=|=>
+

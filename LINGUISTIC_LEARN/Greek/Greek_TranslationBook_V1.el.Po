@@ -1,0 +1,198 @@
+<=|=>
+Greek translation book
+Greek language knowledge of Seanpm2001
+Translates: English (en-US) to Greek (lt) in the Greek script, Romanized with the standard Greek romanization method
+<!-- Some translations are based on feminine and masculine word definitions, as Greek is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Greek: "γεια σας"
+->
+Romanized: "geia sas"
+
+---
+
+English: "Goodbye"
+->
+Greek: "Αντιο σας"
+->
+Romanized: "Antio sas"
+
+---
+
+English: "I don't speak Greek"
+->
+Greek: "Δεν μιλάω ελληνικά"
+->
+Romanized: "Den miláo elliniká"
+
+---
+
+English: "Greek"
+->
+Greek: "Ελληνικά"
+->
+Romanized: "Elliniká"
+
+---
+
+English: "Good morning"
+->
+Greek: "Καλημέρα"
+->
+Romanized: "Kaliméra"
+
+---
+
+English: "Good night"
+->
+Greek: "Καληνυχτα"
+->
+Romanized: "Kalinychta"
+
+---
+
+English: "Zero"
+->
+Greek: "Μηδέν"
+->
+Romanized: "Midén"
+
+---
+
+English: "One"
+->
+Greek: "Ενας"
+->
+Romanized: "Enas"
+
+---
+
+English: "Two"
+->
+Greek: "Δύο"
+->
+Romanized: "Dýo"
+
+---
+
+English: "Three"
+->
+Greek: "Τρία"
+->
+Romanized: "Tría"
+
+---
+
+English: "Four"
+->
+Greek: "Τέσσερα"
+->
+Romanized: "Téssera"
+
+---
+
+English: "Five"
+->
+Greek: "Πέντε"
+->
+Romanized: "Pénte"
+
+---
+
+English: "Six"
+->
+Greek: "Εξι"
+->
+Romanized: "Exi"
+
+---
+
+English: "Seven"
+->
+Greek: "Επτά"
+->
+Romanized: "Eptá"
+
+---
+
+English: "Eight"
+->
+Greek: "Οκτώ"
+->
+Romanized: "Októ"
+
+---
+
+English: "Nine"
+->
+Greek: "Εννέα"
+->
+Romanized: "Ennéa"
+
+---
+
+English: "Ten"
+->
+Greek: "Δέκα"
+->
+Romanized: "Déka"
+
+---
+
+English: "See you tomorrow"
+->
+Greek: "Τα λέμε αύριο"
+->
+Romanized: "Ta léme ávrio"
+
+---
+
+English: "Greece"
+->
+Greek: "Ελλάδα"
+->
+Romanized: "Elláda"
+
+---
+
+English: "Delta"
+->
+Greek: "Δέλτα"
+->
+Romanized: "Délta"
+
+---
+
+<=|=>
+Learning Greek as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Greek: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 4:25 pm PST)
+Line count (including blank lines and compiler line): 0,198
+
+<=|=>
+

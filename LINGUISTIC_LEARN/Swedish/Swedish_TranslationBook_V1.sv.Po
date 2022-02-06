@@ -1,0 +1,156 @@
+<=|=>
+Swedish translation book
+Swedish language knowledge of Seanpm2001
+Translates: English (en-US) to Swedish (sv) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Swedish is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Swedish: "Hej"
+
+---
+
+English: "Goodbye"
+->
+Swedish: "Adjö"
+
+---
+
+English: "I don't speak Swedish"
+->
+Swedish: "Jag pratar inte svenska"
+
+---
+
+English: "Sweden"
+->
+Swedish: "Sverige"
+
+---
+
+English: "Swedish"
+->
+Swedish: "svenska"
+
+---
+
+English: "Unsearchable/Ungoogleable"
+->
+Swedish: "O-Googlebar"
+
+---
+
+English: "Good morning"
+->
+Swedish: "God morgon"
+
+---
+
+English: "Good night"
+->
+Swedish: "Godnatt"
+
+---
+
+English: "Zero"
+->
+Swedish: "Noll"
+
+---
+
+English: "One"
+->
+Swedish: "Ett"
+
+---
+
+English: "Two"
+->
+Swedish: "Två"
+
+---
+
+English: "Three"
+->
+Swedish: "Tre"
+
+---
+
+English: "Four"
+->
+Swedish: "Fyra"
+
+---
+
+English: "Five"
+->
+Swedish: "Fem"
+
+---
+
+English: "Six"
+->
+Swedish: "Sex"
+
+---
+
+English: "Seven"
+->
+Swedish: "Sju"
+
+---
+
+English: "Eight"
+->
+Swedish: "Åtta"
+
+---
+
+English: "Nine"
+->
+Swedish: "Nio"
+
+---
+
+English: "Ten"
+->
+Swedish: "Tio"
+
+---
+
+English: "See you tomorrow"
+->
+Swedish: "Vi ses imorgon"
+
+---
+
+<=|=>
+Learning Swedish as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Swedish: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 4:15 pm PST)
+Line count (including blank lines and compiler line): 0,156
+
+<=|=>
+

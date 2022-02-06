@@ -1,0 +1,124 @@
+<=|=>
+Deutsch translation book
+German language knowledge of Seanpm2001
+Translates: English (en-US) to German (de-EU)
+<=|=>
+Main section
+
+"Deutschland"
+->
+"Germany"
+
+"Deutsch"
+->
+"German"
+
+
+"Übermensch"
+->
+'[May not be accurate]'
+"Superman"
+
+"For today"
+->
+"für heute"
+
+"No articles for today"
+->
+"Nein artikels für heute"
+
+"Can we please talk in English?"
+->
+"Können wir bitte auf Englisch sprechen?"
+
+"No to article 13"
+->
+"Nein zum artikel 13"
+
+"Hello"
+->
+"Hallo"
+
+"Good morning"
+->
+"Guten morgen"
+
+"Good afternoon"
+->
+"Guten Nachmittag"
+
+"Goodnight"
+->
+"Gute Nacht"
+
+"See you tomorrow"
+->
+"Sehe dich morgen"
+
+"Communism"
+->
+"Kommunism"
+
+"No"
+->
+"Nein"
+
+"Nine"
+->
+"Neun"
+
+"My"
+->
+"Mein"
+
+"Goodbye"
+->
+"auf wiedersehen"
+
+"No food for you"
+->
+"Kein Essen für Sie"
+
+"Jude"
+->
+"Jew"
+
+<=|=>
+Learning German so I can fit in in Germany, Switzerland, Austria, <s id="crossthrough">Hungary</s>, Belgium, and Luxembourg
+<=|=>
+
+<=|=>
+Historical only section
+
+I do not support Nazism at all. I am highly opposed to Nazism.
+
+"Mein Kampf"
+->
+"My Struggle"
+'or' ->
+"My Battle"
+
+"Heil Hitler"
+->
+"Heil Hitler"
+
+"Heil"
+->
+"Salvation"
+
+"Leader"
+->
+"Führer"
+
+"Holocaust"
+->
+"Holocaust"
+
+<=|=>
+File info
+
+File version: 1 (2022, Friday, February 4th at 11:37 pm PST)
+Line count (including blank lines and compiler line): 124
+
+<=|=>
+

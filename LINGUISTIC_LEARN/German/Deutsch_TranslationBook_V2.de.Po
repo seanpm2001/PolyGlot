@@ -1,0 +1,216 @@
+<=|=>
+Deutsch translation book
+German language knowledge of Seanpm2001
+Translates: English (en-US) to German (de-EU)
+<=|=>
+Main section
+
+"Deutschland"
+->
+"Germany"
+
+"Deutsch"
+->
+"German"
+
+"Übermensch"
+->
+'[May not be accurate]'
+"Superman"
+
+"Reich"
+->
+'[May not be accurate]'
+"Rich"
+
+"Das Reich"
+->
+"The Empire"
+
+"For today"
+->
+"für heute"
+
+"No articles for today"
+->
+"Nein artikels für heute"
+
+"Can we please talk in English?"
+->
+"Können wir bitte auf Englisch sprechen?"
+
+"No to article 13"
+->
+"Nein zum artikel 13"
+
+"Hello"
+->
+"Hallo"
+
+"Good morning"
+->
+"Guten morgen"
+
+"Good afternoon"
+->
+"Guten Nachmittag"
+
+"Goodnight"
+->
+"Gute Nacht"
+
+"See you tomorrow"
+->
+"Sehe dich morgen"
+
+"Communism"
+->
+"Kommunism"
+
+"No"
+->
+"Nein"
+
+"Zero"
+->
+"Null"
+
+"One"
+->
+"Eins"
+
+"Two"
+->
+"Zwei"
+
+"Three"
+->
+"Drei"
+
+"Four"
+->
+"Vier"
+
+"Five"
+->
+"Fünf"
+
+"Six"
+->
+"Sechs"
+
+"Seven"
+->
+"Sieben"
+
+"Eight"
+->
+"Acht"
+
+"Nine"
+->
+"Neun"
+
+"Ten"
+->
+"Zehn"
+
+"My"
+->
+"Mein"
+
+"Goodbye"
+->
+"auf wiedersehen"
+
+"No food for you"
+->
+"Kein Essen für Sie"
+
+"Jew"
+->
+"Jude"
+
+"Red"
+->
+"Rot"
+
+"Green"
+->
+"Grün"
+
+"Blue"
+->
+"Blau"
+
+"Das Kapital"
+->
+"Capital"
+
+"Das"
+->
+"That"
+
+"Kapital"
+->
+"Capital"
+
+"Welcome"
+->
+"Willkommen"
+
+"Welcome to Bejeweled Twist"
+->
+"Willkommen bei Bejeweled Twist"
+
+"Fuck"
+->
+"Ficken"
+
+"What the fuck"
+->
+"Was zum Teufel"
+
+"Time to go"
+->
+"Zeit zu gehen"
+
+<=|=>
+Learning German so I can fit in in Germany, Switzerland, Austria, <s id="crossthrough">Hungary</s>, Belgium, and Luxembourg
+<=|=>
+
+<=|=>
+Historical only section
+
+I do not support Nazism at all. I am highly opposed to Nazism.
+
+"Mein Kampf"
+->
+"My Struggle"
+'or' ->
+"My Battle"
+
+"Heil Hitler"
+->
+"Heil Hitler"
+
+"Heil"
+->
+"Salvation"
+
+"Leader"
+->
+"Führer"
+
+"Holocaust"
+->
+"Holocaust"
+
+<=|=>
+File info
+
+File version: 2 (2022, Friday, February 4th at 11:56 pm PST)
+Line count (including blank lines and compiler line): 0,216
+
+<=|=>
+

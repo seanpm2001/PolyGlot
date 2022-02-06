@@ -1,0 +1,143 @@
+<=|=>
+Latin translation book
+Latin language knowledge of Seanpm2001
+Translates: English (en-US) to Latin (la) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Latin is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+Google Translate was used, as Bing translate doesn't support Latin
+<=|=>
+Main section
+
+---
+
+English: "Right"
+->
+Latin: "De jure"
+
+---
+
+English: "And you brute"
+->
+Latin: "Et tu brute"
+
+---
+
+English: "And you brutus"
+->
+Latin: "Et tu brutus"
+
+---
+
+English: "Out of many, one"
+->
+Latin: "E Pluribus Unum"
+
+---
+
+English: "Hello"
+->
+Latin: "Salve"
+
+---
+
+English: "Goodbye"
+->
+Latin: "Vale"
+
+---
+
+English: "Rome"
+->
+Latin: "Roma"
+
+---
+
+English: "Zero"
+->
+Latin: "Zero"
+
+---
+
+English: "One"
+->
+Latin: "Unus"
+
+---
+
+English: "Two"
+->
+Latin: "duo"
+
+---
+
+English: "Three"
+->
+Latin: "Tribus"
+
+---
+
+English: "Four"
+->
+Latin: "quattuor"
+
+---
+
+English: "Five"
+->
+Latin: "quinque"
+
+---
+
+English: "Six"
+->
+Latin: "Sex"
+
+---
+
+English: "Seven"
+->
+Latin: "septem"
+
+---
+
+English: "Eight"
+->
+Latin: "Octo"
+
+---
+
+English: "Nine"
+->
+Latin: "Novem"
+
+---
+
+English: "Ten"
+->
+Latin: "Decem"
+
+---
+
+<=|=>
+Learning Latin as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Latin: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Saturday, February 5th at 3:43 pm PST)
+Line count (including blank lines and compiler line): 0,143
+
+<=|=>
+
