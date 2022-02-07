@@ -1,0 +1,275 @@
+<=|=>
+Esperanto translation book
+Esperanto language knowledge of Seanpm2001
+Translates: English (en-US) to Esperanto (eo) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Esperanto is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+Google Translate was used, as Bing translate doesn't support Esperanto
+<=|=>
+Main section
+
+---
+
+English: "Right"
+->
+Esperanto: "Ĝuste"
+
+---
+
+English: "Left"
+->
+Esperanto: "Maldekstre"
+
+---
+
+English: "I don't speak Esperanto"
+->
+Esperanto: "Mi ne parolas Esperanton"
+
+---
+
+English: "Esperanto"
+->
+Esperanto: "Esperanto"
+
+---
+
+English: "Polish"
+->
+Esperanto: "pola"
+
+---
+
+English: "Good morning"
+->
+Esperanto: "Bonan matenon"
+
+---
+
+English: "Good afternoon"
+->
+Esperanto: "Bonan posttagmezon"
+
+---
+
+English: "Good evening"
+->
+Esperanto: "Bonan vesperon"
+
+---
+
+English: "Good night"
+->
+Esperanto: "Bonan nokton"
+
+---
+
+English: "What"
+->
+Esperanto: "Kio"
+
+---
+
+English: "Welcome"
+->
+Esperanto: "Bonvenon"
+
+---
+
+English: "Why"
+->
+Esperanto: "Kial"
+
+---
+
+English: "What are you doing?"
+->
+Esperanto: "Kion vi faras"
+
+---
+
+English: "English"
+->
+Esperanto: "la angla"
+
+---
+
+English: "Linguistics"
+->
+Esperanto: "Lingvistiko"
+
+---
+
+English: "Web browser"
+->
+Esperanto: "retumilo"
+
+---
+
+English: "Machine translation"
+->
+Esperanto: "Maŝina tradukado"
+
+---
+
+English: "Universe"
+->
+Esperanto: "Universo"
+
+---
+
+English: "Universal"
+->
+Esperanto: "Universala"
+
+---
+
+English: "No"
+->
+Esperanto: "Ne"
+
+---
+
+English: "Yes"
+->
+Esperanto: "Jes"
+
+---
+
+English: "Wait"
+->
+Esperanto: "Atendu"
+
+---
+
+English: "Hold on"
+->
+Esperanto: "Atendu"
+
+---
+
+English: "Friend"
+->
+Esperanto: "Amiko"
+
+---
+
+English: "For me"
+->
+Esperanto: "Por mi"
+
+---
+
+English: "When"
+->
+Esperanto: "Kiam"
+
+---
+
+English: "Hello"
+->
+Esperanto: "Saluton"
+
+---
+
+English: "Goodbye"
+->
+Esperanto: "Adiaŭ"
+
+---
+
+English: "Earth"
+->
+Esperanto: "Tero"
+
+---
+
+English: "Zero"
+->
+Esperanto: "Nulo"
+
+---
+
+English: "One"
+->
+Esperanto: "Unu"
+
+---
+
+English: "Two"
+->
+Esperanto: "Du"
+
+---
+
+English: "Three"
+->
+Esperanto: "Tri"
+
+---
+
+English: "Four"
+->
+Esperanto: "Kvar"
+
+---
+
+English: "Five"
+->
+Esperanto: "Kvin"
+
+---
+
+English: "Six"
+->
+Esperanto: "Ses"
+
+---
+
+English: "Seven"
+->
+Esperanto: "Sep"
+
+---
+
+English: "Eight"
+->
+Esperanto: "Ok"
+
+---
+
+English: "Nine"
+->
+Esperanto: "Naŭ"
+
+---
+
+English: "Ten"
+->
+Esperanto: "Dek"
+
+---
+
+<=|=>
+Learning Esperanto as an extra linguistic task to use as a universal language.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Esperanto: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Monday, February 7th at 3:21 pm PST)
+Line count (including blank lines and compiler line): 0,275
+
+<=|=>
+
