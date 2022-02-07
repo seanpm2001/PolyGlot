@@ -1,0 +1,212 @@
+<=|=>
+Arabic translation book
+Arabic language knowledge of Seanpm2001
+Translates: English (en-US) to Arabic (ar) in the Arabic Abjad script, Romanization is also used
+<!-- Some translations are based on feminine and masculine word definitions, as Arabic  is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+<!-- Google Translate was used, as Bing translate doesn't support Latin !-->
+I used Google Translate, as I didn't want to use Bing Translate right now. Also, Bing translate doesn't support also showing romanization subtitles.
+<=|=>
+Main section
+
+---
+
+English: "Hello"
+->
+Arabic : "مرحبا"
+->
+Romanization: "marhaban"
+
+---
+
+English: "Goodbye"
+->
+Arabic : "مع السلامة"
+->
+Romanization: "mae alsalama"
+
+---
+
+English: "I don't speak Arabic"
+->
+Arabic: "انا لا اتكلم العربية"
+->
+Romanization: "ana la aitakalam alearabia"
+
+---
+
+English: "Forbidden"
+->
+Arabic: "محرم"
+->
+Romanization: "muharam"
+
+---
+
+English: "Halal"
+->
+Arabic: "حلال"
+->
+Romanization: "halal"
+
+English: "Saudi Arabia"
+->
+Arabic: "المملكة العربية السعودية"
+->
+Romanization: "almamlakat alearabiat alsueudia"
+
+---
+
+English: "Arabic "
+->
+Arabic: "عربى"
+->
+Romanization: "eurabaa"
+
+---
+
+English: "Good morning"
+->
+Arabic : "صباح الخير"
+->
+Romanization: "sabah alkhayr"
+
+---
+
+English: "Good night"
+->
+Arabic : "طاب مساؤك"
+->
+Romanization: "tab masawuk"
+
+---
+
+English: "Zero"
+->
+Arabic : "صفر"
+->
+Romanization: "sifr"
+
+---
+
+English: "One"
+->
+Arabic : "واحد"
+->
+Romanization: "wahid"
+
+---
+
+English: "Two"
+->
+Arabic : "اثنين"
+->
+Romanization: "aithnayn"
+
+---
+
+English: "Three"
+->
+Arabic : "ثلاثة"
+->
+Romanization: "thalatha"
+
+---
+
+English: "Four"
+->
+Arabic : "أربعة"
+->
+Romanization: "'arbaea"
+
+---
+
+English: "Five"
+->
+Arabic : "خمسة"
+->
+Romanization: "khamsa"
+
+---
+
+English: "Six"
+->
+Arabic : "ستة"
+->
+Romanization: "sita"
+
+---
+
+English: "Seven"
+->
+Arabic : "سبعة"
+->
+Romanization: "sabea"
+
+---
+
+English: "Eight"
+->
+Arabic : "ثمانية"
+->
+Romanization: "thamania"
+
+---
+
+English: "Nine"
+->
+Arabic : "تسع"
+->
+Romanization: "tise"
+
+---
+
+English: "Ten"
+->
+Arabic : "عشرة"
+->
+Romanization: "eashra"
+
+---
+
+English: "See you tomorrow"
+->
+Arabic: "أراك غدا"
+->
+Romanization: "'arak ghadan"
+
+---
+
+English: "United Arab Emirates"
+->
+Arabic: "الإمارات العربية المتحدة"
+->
+Romanization: "al'iimarat alearabiat almutahida"
+
+---
+
+<=|=>
+Learning Arabic as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Arabic: " "
+->
+Romanization: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Sunday, February 6th at 4:00 pm PST)
+Line count (including blank lines and compiler line): 212
+
+<=|=>
+
