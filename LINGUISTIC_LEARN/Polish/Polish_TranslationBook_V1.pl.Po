@@ -1,0 +1,275 @@
+<=|=>
+Polish translation book
+Polish language knowledge of Seanpm2001
+Translates: English (en-US) to Polish (eo) in the Latin script, no romanization needed
+<!-- Some translations are based on feminine and masculine word definitions, as Polish is a gender-based language. !-->
+<!-- Due to limitations with Bing Translate on Romanization samples not being present, I unfortunately had to use Google translate !-->
+<!-- Google Translate was used, as Bing translate doesn't show gender-specific translations !-->
+Google Translate was used, as Bing translate doesn't support Polish
+<=|=>
+Main section
+
+---
+
+English: "Right"
+->
+Polish: "Prawidłowy"
+
+---
+
+English: "Left"
+->
+Polish: "Lewo"
+
+---
+
+English: "I don't speak Polish"
+->
+Polish: "nie mówię po polsku"
+
+---
+
+English: "Poland"
+->
+Polish: "Polska"
+
+---
+
+English: "Polish"
+->
+Polish: "Polskie"
+
+---
+
+English: "Good morning"
+->
+Polish: "Dzień dobry"
+
+---
+
+English: "Good afternoon"
+->
+Polish: "Dzień dobry"
+
+---
+
+English: "Good evening"
+->
+Polish: "Dobry wieczór"
+
+---
+
+English: "Good night"
+->
+Polish: "Dobranoc"
+
+---
+
+English: "What"
+->
+Polish: "Co"
+
+---
+
+English: "Welcome"
+->
+Polish: "Witamy"
+
+---
+
+English: "Why"
+->
+Polish: "Czemu"
+
+---
+
+English: "What are you doing?"
+->
+Polish: "Co ty robisz?"
+
+---
+
+English: "English"
+->
+Polish: "język angielski"
+
+---
+
+English: "Linguistics"
+->
+Polish: "Językoznawstwo"
+
+---
+
+English: "Web browser"
+->
+Polish: "przeglądarka internetowa"
+
+---
+
+English: "Machine translation"
+->
+Polish: "Tłumaczenie maszynowe"
+
+---
+
+English: "Universe"
+->
+Polish: "Wszechświat"
+
+---
+
+English: "Universal"
+->
+Polish: "uniwersalny"
+
+---
+
+English: "No"
+->
+Polish: "Nie"
+
+---
+
+English: "Yes"
+->
+Polish: "tak"
+
+---
+
+English: "Wait"
+->
+Polish: "Czekać"
+
+---
+
+English: "Hold on"
+->
+Polish: "Trzymać się"
+
+---
+
+English: "Friend"
+->
+Polish: "Przyjaciel"
+
+---
+
+English: "For me"
+->
+Polish: "Dla mnie"
+
+---
+
+English: "When"
+->
+Polish: "Kiedy"
+
+---
+
+English: "Hello"
+->
+Polish: "Witaj"
+
+---
+
+English: "Goodbye"
+->
+Polish: "Do widzenia"
+
+---
+
+English: "Earth"
+->
+Polish: "Ziemia"
+
+---
+
+English: "Zero"
+->
+Polish: "Zero"
+
+---
+
+English: "One"
+->
+Polish: "Jeden"
+
+---
+
+English: "Two"
+->
+Polish: "Dwa"
+
+---
+
+English: "Three"
+->
+Polish: "Trzy"
+
+---
+
+English: "Four"
+->
+Polish: "Cztery"
+
+---
+
+English: "Five"
+->
+Polish: "Pięć"
+
+---
+
+English: "Six"
+->
+Polish: "Sześć"
+
+---
+
+English: "Seven"
+->
+Polish: "Siedem"
+
+---
+
+English: "Eight"
+->
+Polish: "Osiem"
+
+---
+
+English: "Nine"
+->
+Polish: "Dziewięć"
+
+---
+
+English: "Ten"
+->
+Polish: "Dziesięć"
+
+---
+
+<=|=>
+Learning Polish as an extra linguistic task.
+<=|=>
+
+---
+
+Template1:
+
+English: " "
+->
+Polish: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Monday, February 7th at 3:47 pm PST)
+Line count (including blank lines and compiler line): 0,275
+
+<=|=>
+
