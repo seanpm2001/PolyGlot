@@ -1,0 +1,265 @@
+<=|=>
+Japanese translation book
+Japanese language knowledge of Seanpm2001
+Translates: English (en-US) to Japanese (ja-Kana) in the Kana script, along with Hepburn Romanization
+Due to limitations with Bing Translate on Hepburn Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Please give me wings"
+->
+Kana: "翼をください"
+->
+Hepburn: "Tsubasawokudasai"
+->
+
+---
+
+English: "Cute"
+->
+Kana: "かわいい"
+->
+Hepburn: "Kawaī"
+
+---
+
+English: "Pervert"
+->
+Kana: "変態"
+->
+Hepburn: "Hentai"
+
+---
+
+English "Hello"
+->
+Kana: "こんにちは"
+->
+Hepburn: "Kon'nichiwa"
+
+---
+
+[May not be accurate]
+English: "upperclassman"
+->
+Kana: "先輩"
+->
+Hepburn: "Senpai"
+
+---
+
+English: "Zero"
+->
+Kana: "零"
+->
+Hepburn: "Rei"
+
+---
+
+English: "One"
+->
+Kana: "一"
+->
+Hepburn: "Ichi"
+
+---
+
+English: "Two"
+->
+Kana: "二"
+->
+Hepburn: "Ni"
+
+---
+
+English: "Three"
+->
+Kana: "三つ"
+->
+Hepburn: "Mittsu"
+
+---
+
+English: "Four"
+->
+Kana: "四"
+->
+Hepburn: "Shi"
+
+---
+
+English: "Five"
+->
+Kana: "五"
+->
+Hepburn: "Go"
+
+---
+
+English: "Six"
+->
+Kana: "六"
+->
+Hepburn: "Roku"
+
+---
+
+English: "Seven"
+->
+Kana: "セブン"
+->
+Hepburn: "Sebun"
+
+---
+
+English: "Eight"
+->
+Kana: "8"
+->
+Hepburn: "8"
+
+---
+
+English: "Nine"
+->
+Kana: "九"
+->
+Hepburn: "Kyū"
+
+---
+
+English: "Ten"
+->
+Kana: "十"
+->
+Hepburn: "Jū"
+
+---
+
+English: "Japan"
+->
+Kana: "日本"
+->
+Hepburn: "Nihon"
+
+---
+
+English: "Japanese"
+->
+Kana: "日本"
+->
+Hepburn: "Nihon"
+
+---
+
+English: "Kyoto"
+->
+Kana: "京都"
+->
+Hepburn: "Kyōto"
+
+---
+
+English: "Tokyo"
+->
+Kana: "東京"
+->
+Hepburn: "Tōkyō"
+
+---
+
+English: "Island"
+->
+Kana: "小島"
+->
+Hepburn: "Kojima"
+
+---
+
+English: "Asia"
+->
+Kana: "アジア"
+->
+Hepburn: "Ajia"
+
+---
+
+English: "Animation"
+->
+Kana: "アニメーション"
+->
+Hepburn: "Animēshon"
+
+---
+
+English: "Anime"
+->
+Kana: "アニメ"
+->
+Hepburn: "Anime"
+
+---
+
+English: "Top 10 saddest Anime betrayals"
+->
+Kana: "トップ10の最も悲しいアニメの裏切り"
+->
+Hepburn: "Toppu 10 no mottomo kanashī anime no uragiri"
+
+---
+
+English: "What"
+->
+Kana: "何"
+->
+Hepburn: "Nani"
+
+---
+
+English: "Idiot"
+->
+Kana: "愚か者"
+->
+Hepburn: "Orokamono"
+
+---
+
+English: "Sensei"
+->
+Kana: "先生"
+->
+Hepburn: "Sensei"
+
+---
+
+English: "Kamikaze"
+->
+Kana: "神風"
+->
+Hepburn: "Kamikaze"
+
+---
+
+<=|=>
+
+TemplateA
+English: ""
+->
+Kana: ""
+->
+Hepburn: ""
+
+<=|=>
+Learning Japanese, so I can learn it as a language, and natively read and watch Anime and Manga content without subtitles.
+<=|=>
+
+<=|=>
+File info
+
+File version: 2 (2022, Saturday, February 6th at 4:27 pm PST)
+Line count (including blank lines and compiler line): 265
+
+<=|=>
+
