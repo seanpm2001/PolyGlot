@@ -1,0 +1,200 @@
+<=|=>
+Korean (South) translation book
+Korean (South) language knowledge of Seanpm2001
+Translates: English (en-US) to Korean (South) (ja-SK Hangul) in the SK Hangul script, along with Hepburn Romanization
+Due to limitations with Bing Translate on Hepburn Romanization samples not being present, I unfortunately had to use Google translate
+<=|=>
+Main section
+
+---
+
+English: "Wave"
+->
+SK Hangul: "바다"
+->
+Romanized: "Bada"
+->
+
+---
+
+English "Hello"
+->
+SK Hangul: "안녕하세요"
+->
+Romanized: "annyeonghaseyo"
+
+---
+
+English: "Zero"
+->
+SK Hangul: "영"
+->
+Romanized: "yeong"
+
+---
+
+English: "One"
+->
+SK Hangul: "하나"
+->
+Romanized: "hana"
+
+---
+
+English: "Two"
+->
+SK Hangul: "둘"
+->
+Romanized: "dul"
+
+---
+
+English: "Three"
+->
+SK Hangul: "삼"
+->
+Romanized: "sam"
+
+---
+
+English: "Four"
+->
+SK Hangul: "4"
+->
+Romanized: "4"
+
+---
+
+English: "Five"
+->
+SK Hangul: "다섯"
+->
+Romanized: "다섯"
+
+---
+
+English: "Six"
+->
+SK Hangul: "육"
+->
+Romanized: "yug"
+
+---
+
+English: "Seven"
+->
+SK Hangul: "세븐"
+->
+Romanized: "sebeun"
+
+---
+
+English: "Eight"
+->
+SK Hangul: "여덟"
+->
+Romanized: "yeodeolb"
+
+---
+
+English: "Nine"
+->
+SK Hangul: "아홉"
+->
+Romanized: "ahob"
+
+---
+
+English: "Ten"
+->
+SK Hangul: "십"
+->
+Romanized: "Sib"
+
+---
+
+English: "I don't speak Korean."
+->
+SK Hangul: "나는 한국말을 못한다."
+->
+Romanized: "naneun hangugmal-eul moshanda."
+
+---
+
+English: "Korean"
+->
+SK Hangul: "한국인"
+->
+Romanized: "hangug-in"
+
+---
+
+English: "Korean (South)"
+->
+SK Hangul: "한국어(남쪽)"
+->
+Romanized: "hangug-eo(namjjog)"
+
+---
+
+English: "Korea"
+->
+SK Hangul: "한국"
+->
+Romanized: "hangug"
+
+---
+
+English: "North Korea"
+->
+SK Hangul: "북한"
+->
+Romanized: "bughan"
+
+---
+
+English: "South Korea"
+->
+SK Hangul: "대한민국"
+->
+Romanized: "daehanmingug"
+
+---
+
+English: "Asia"
+->
+SK Hangul: "아시아"
+->
+Romanized: "asia"
+
+---
+
+English: "What"
+->
+SK Hangul: "뭐"
+->
+Romanized: "mwo"
+
+---
+
+<=|=>
+
+TemplateA
+English: ""
+->
+SK Hangul: ""
+->
+Romanized: ""
+
+<=|=>
+Learning Korean (South), so I can learn it as a language, and natively read and watch Anime and Manga content without subtitles.
+<=|=>
+
+<=|=>
+File info
+
+File version: 2 (2022, Monday, February 7th at 1:01 pm PST)
+Line count (including blank lines and compiler line): 200
+
+<=|=>
+
