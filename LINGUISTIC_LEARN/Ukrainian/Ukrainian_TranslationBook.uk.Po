@@ -1,0 +1,66 @@
+<=|=>
+Ukrainian translation book
+Ukrainian language knowledge of Seanpm2001
+Translates: English (en-US) to Ukrainian (uk) in the Cyrillic script, along with Ukrainian Romanization
+All translations were done with Bing tranlate
+<=|=>
+Main section
+
+---
+
+English: "upon"
+->
+Ukrainian: "на"
+->
+Romanized: "nah"
+->
+
+---
+
+English: "good afternoon"
+->
+Ukrainian: "Доброго дня"
+->
+Romanized: "dobrogo dnya"
+->
+
+---
+
+English: "good morning"
+->
+Ukrainian: "Доброго ранку"
+->
+Romanized: "dobrogo ranco"
+
+---
+
+English: "Good afternoon meme"
+->
+Ukrainian: "Мем доброго дня"
+->
+Romanized: "mem dobrogo dnya"
+
+<=|=>
+Learning Ukrainian as an extra linguistic task.
+<=|=>
+
+---
+
+Template:
+
+English: " "
+->
+Ukrainian: " "
+->
+Romanized: " "
+
+---
+
+<=|=>
+File info
+
+File version: 1 (2022, Sunday, July 3rd at 10:27 pm PST)
+Line count (including blank lines and compiler line): 67
+
+<=|=>
+
